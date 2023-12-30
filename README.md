@@ -1,7 +1,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 <h1 align="center">Hi 👋, I'm Saquib Shadab</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India </h3>
 <img align = "right" alt = "Coding" width ="400" src = "https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shadabsaquib01" target="blank"><img src="https://img.shields.io/twitter/follow/shadabsaquib01?logo=twitter&style=for-the-badge" alt="shadabsaquib01" /></a> </p>
 
-- 🔭 I’m currently working on [E_commerce_Application_website](https://github.com/Saquib0001/Ecommerce_Application_Website.git)
-
-- 🌱 I’m currently learning **AI / ML**
+- 🔭 I’m currently pursuing My B-tech degree in Information Technolgy
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquib0001](https://github.com/Saquib0001)
 
