@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shadabsaquib01" target="blank"><img src="https://img.shields.io/twitter/follow/shadabsaquib01?logo=twitter&style=for-the-badge" alt="shadabsaquib01" /></a> </p>
 
-- 🔭 I’m currently pursuing My B-tech degree in Information Technolgy
+- 🔭 "Currently, I am pursuing my BTech degree in Information Technology."
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquib0001](https://github.com/Saquib0001)
 
