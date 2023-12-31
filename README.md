@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquib0001](https://github.com/Saquib0001)
 
-- 💬 Ask me about **HTML,CSS ,javascript , React and Next js framework**
+- 💬 Ask me about **HTML,CSS ,javascript , React.js and Next.js framework**
 
 - 📫 How to reach me **Shadabsaquib001@gmail.com**
 
